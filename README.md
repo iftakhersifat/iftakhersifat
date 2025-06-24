@@ -53,11 +53,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iftakhersifat&show_icons=true&locale=en" alt="iftakhersifat" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iftakhersifat&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftakhersifat" alt="GitHub Streak" height="200"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iftakhersifat&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftakhersifat" alt="GitHub Streak" height="200"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
