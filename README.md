@@ -32,13 +32,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iftakhersifat&show_icons=true&locale=en" alt="iftakhersifat" />
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iftakhersifat&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftakhersifat" alt="GitHub Streak" height="200"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iftakhersifat&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftakhersifat" alt="GitHub Streak" height="200"/>
-  
-</div>
 
 
 <div align="center">
